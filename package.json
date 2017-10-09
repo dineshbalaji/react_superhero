@@ -1,7 +1,7 @@
 {
   "name": "superheros",
   "version": "1.0.0",
-  "description": "Demo for React Webpack",
+  "description": "Demo for React Webpack......",
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --content-base src --inline --hot",
