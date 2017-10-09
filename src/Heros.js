@@ -23,5 +23,10 @@ export let HEROS= [
     id:5,
     name:"Rock man",
     power:'power of Strong'
+  },
+  {
+    id:6,
+    name:'tester',
+    power:'test'
   }
 ]
